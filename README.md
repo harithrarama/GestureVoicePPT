@@ -23,7 +23,7 @@ A Python-based project designed to control PowerPoint presentations using **hand
 
 ```text
 GestureVoicePPT/
-├── hand_detection.py
+├── slide_controller.py
 ├── voice_control.py
 ├── requirements.txt
 ├── README.md
